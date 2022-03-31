@@ -1,6 +1,5 @@
 # pihex-rs
 [![CI Status](https://github.com/No-one-important/pihex-rs/workflows/CI/badge.svg)](https://github.com/No-one-important/pihex-rs/actions)
-[![crates.io](https://img.shields.io/crates/v/pihex.svg)](https://crates.io/crates/pihex)
 [![release](https://img.shields.io/github/release/No-one-important/pihex-rs/all.svg)](https://github.com/No-one-important/pihex-rs/releases)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/No-one-important/pihex-rs/blob/master/LICENSE)
 
