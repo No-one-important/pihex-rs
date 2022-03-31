@@ -1,8 +1,8 @@
 # pihex-rs
-[![CI Status](https://github.com/itchyny/pihex-rs/workflows/CI/badge.svg)](https://github.com/itchyny/pihex-rs/actions)
+[![CI Status](https://github.com/No-one-important/pihex-rs/workflows/CI/badge.svg)](https://github.com/No-one-important/pihex-rs/actions)
 [![crates.io](https://img.shields.io/crates/v/pihex.svg)](https://crates.io/crates/pihex)
-[![release](https://img.shields.io/github/release/itchyny/pihex-rs/all.svg)](https://github.com/itchyny/pihex-rs/releases)
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/itchyny/pihex-rs/blob/master/LICENSE)
+[![release](https://img.shields.io/github/release/No-one-important/pihex-rs/all.svg)](https://github.com/No-one-important/pihex-rs/releases)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/No-one-important/pihex-rs/blob/master/LICENSE)
 
 Arbitrary place hexadecimal digits viewer of pi written in Rust.
 The library is based on the Bailey-Borwein-Plouffe formula (BBP formula) and Bellard's formula.
@@ -32,19 +32,19 @@ Refer to `pihex --help` for further details.
 ## Installation
 ### Homebrew
 ```shell
-brew install itchyny/tap/pihex
+brew install No-one-important/tap/pihex
 ```
 
 ### Build from source
 ```shell
-git clone https://github.com/itchyny/pihex-rs
+git clone https://github.com/No-one-important/pihex-rs
 cd pihex-rs
 cargo install --path .
 export PATH=$PATH:$HOME/.cargo/bin
 ```
 
 ## Author
-itchyny (https://github.com/itchyny)
+No-one-important (https://github.com/No-one-important)
 
 ## License
 This software is released under the MIT License, see LICENSE.
